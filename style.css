@@ -16,7 +16,8 @@
 .buttons{
     margin-top: 1.2em;
     padding-bottom: 16px;
-    margin-left: 510px;
+    margin-left: auto;
+    margin-right: auto;
     
 }
 .buttons button{
@@ -78,11 +79,12 @@ padding: 22px;
     
   height: 65vh;
   width: 250px;
-  margin-left: 620px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 155px;
   /* padding-top: 130px; */
   border-radius: 100px;
-  align-items: center;
+  display: block;
 }
 .devinfo h2{
     font-style:italic;
