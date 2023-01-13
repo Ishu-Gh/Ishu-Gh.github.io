@@ -200,13 +200,13 @@ html {
     padding:0;
     font-family: sans-serif;
     background: linear-gradient(#496fb6, #173842);
-    background:#1B2030 
+/*     background:#1B2030 
     url(https://images.unsplash.com/photo-1571993142257-eae0b44cf0f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
   transition:all 0.8s ease-in-out;
-  z-index:-2
+  z-index:-2 */
   
   }
   .login-box {
